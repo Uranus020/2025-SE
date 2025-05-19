@@ -1,0 +1,11 @@
+[Uranus020] Tue May 20 01:07:43 2025 +0900 github 주소 명시 03de019
+[Uranus020] Tue May 20 01:03:32 2025 +0900 Remove 2)mdj file 39a1ffe
+[Uranus020] Tue May 20 01:01:55 2025 +0900 2)pdf버전으로 제출 85d4dae
+[Uranus020] Tue May 20 00:59:25 2025 +0900 1)개인코드 추가 b4d8923
+[Uranus020] Tue May 20 00:55:35 2025 +0900 5)과제 완성 a1e39ee
+[Uranus020] Tue May 20 00:54:25 2025 +0900 4)과제 수정 79bb55f
+[Uranus020] Mon May 19 22:27:03 2025 +0900 4번과제완료 a237a88
+[Uranus020] Mon May 19 11:27:43 2025 +0900 3)수정 6e68667
+[Uranus020] Fri May 16 00:09:37 2025 +0900 3)과제 완성 a625c73
+[Uranus020] Fri May 16 00:08:19 2025 +0900 2)과제 완성 229bb64
+[Uranus020] Thu May 15 23:58:35 2025 +0900 1)과제 완성 592276e
